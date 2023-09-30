@@ -1,3 +1,10 @@
+---
+name: new commit
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+---
 ## Tipo del Cambio: Breve Descripción
 
 [Descripción más detallada del cambio, si es necesario.]
