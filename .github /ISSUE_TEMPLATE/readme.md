@@ -1,4 +1,4 @@
-[Tipo del Cambio]: Breve Descripción
+##[Tipo del Cambio]: Breve Descripción
 
 [Descripción más detallada del cambio, si es necesario.]
 
